@@ -1,0 +1,251 @@
+{
+  "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/C33B717F09104D3B8DA0E164CCCD6180",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Metall"
+  },
+  "notation": [
+    "C33B717F09104D3B8DA0E164CCCD6180"
+  ],
+  "narrower": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/0B33FB78E49E498594E1A7B79F28AE51",
+      "prefLabel": {
+        "de": "Edelmetall"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/1194F7AAE15F43278F1DEB6D006D67B7",
+      "prefLabel": {
+        "de": "Blattmetall"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/1603A1AB30354AC6B55BDE6BCE73761B",
+      "prefLabel": {
+        "de": "Blei <Material>"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/F98137C3F30A40AC9C4BEB261E6182DE",
+      "prefLabel": {
+        "de": "Zinn"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/28FFB5C5A7A04EFD906D6D0BCDC1260A",
+      "prefLabel": {
+        "de": "Eisenschlacke"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/9B7D57A8D6D34F9489CCD8EC066F7124",
+      "prefLabel": {
+        "de": "Eisen"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/6CAF0E8F07FB41D2A5D5146B7EE0BA75",
+      "prefLabel": {
+        "de": "Metalllegierung"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/85dca8a9-d557-4e77-aa66-575e6a5e5e55",
+      "prefLabel": {
+        "de": "Antimon <Material>"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/A782BDBE94A74C2187421E276F8632C0",
+      "prefLabel": {
+        "de": "Metallfaden"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/C2384AADBFC44342AAAB3ADC92D64038",
+      "prefLabel": {
+        "de": "Zink"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/DBC06D0DF2D54F8D9DEE71433359882E",
+      "prefLabel": {
+        "de": "Quecksilber"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/E33A89A0AEBE4DFB8AD6518A759E693F",
+      "prefLabel": {
+        "de": "Aluminium <Material>"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/F5116BC3B15B40B99C7738CC10B3D3AE",
+      "prefLabel": {
+        "de": "Kupfer <Material>"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/BA91E659360B4D8F96CC803B7C547B10",
+    "prefLabel": {
+      "de": "verarbeitetes Material"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

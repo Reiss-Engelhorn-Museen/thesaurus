@@ -1,0 +1,250 @@
+{
+  "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/BA91E659360B4D8F96CC803B7C547B10",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "verarbeitetes Material"
+  },
+  "notation": [
+    "BA91E659360B4D8F96CC803B7C547B10"
+  ],
+  "narrower": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/C33B717F09104D3B8DA0E164CCCD6180",
+      "prefLabel": {
+        "de": "Metall"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/31B5C4A8163045598468544BFF0534D0",
+      "prefLabel": {
+        "de": "Stuck"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/20EF901115AD419885E30C42C565AB12",
+      "prefLabel": {
+        "de": "verarbeitetes organisches Material"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/C81F8C501E5F4588A2329B470C890C40",
+      "prefLabel": {
+        "de": "Lack"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/84BB2855D5EC48B9B4EB6DD29451FA32",
+      "prefLabel": {
+        "de": "Gußstein"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/6D0A650E4EB04532ADA752D8540E7B5C",
+      "prefLabel": {
+        "de": "Rotlehm"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/0843DABB3CAD4C4B80CAB11A235C7C60",
+      "prefLabel": {
+        "de": "dünn zeichnender Stift"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/983A9A3FA10044AF8BEF97E1EF40AFA5",
+      "prefLabel": {
+        "de": "Klebemittel"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/D2296010C0264EAC80D2E6C8F3DB06A1",
+      "prefLabel": {
+        "de": "Fassung"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/D5A190B2A0554443B272D4268C3B28D3",
+      "prefLabel": {
+        "de": "Textil"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/9AE460E22A2B4C4496846FB753BF0260",
+      "prefLabel": {
+        "de": "Kitt"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/5ECCFB8453984D06BCAA2D852800F9B4",
+      "prefLabel": {
+        "de": "Zeichenmittel"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/3641605AE8394509A9C250FEBC977F9B",
+      "prefLabel": {
+        "de": "verarbeitetes anorganisches Material"
+      }
+    }
+  ],
+  "inScheme": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "topConceptOf": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

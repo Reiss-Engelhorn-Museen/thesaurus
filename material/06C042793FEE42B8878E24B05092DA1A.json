@@ -1,0 +1,227 @@
+{
+  "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/06C042793FEE42B8878E24B05092DA1A",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Nadelholz"
+  },
+  "notation": [
+    "06C042793FEE42B8878E24B05092DA1A"
+  ],
+  "narrower": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/092ED795AAF24350AF114E232EB5E316",
+      "prefLabel": {
+        "de": "Douglasie"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/F1FC69F2A36C495CA5D0917F871A66CE",
+      "prefLabel": {
+        "de": "Kiefer <Gattung>"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/2148FEBF07FF42D28B65CD011F17F003",
+      "prefLabel": {
+        "de": "Thuja"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/3B8AFCD522AC4B8F9235522F30F907A9",
+      "prefLabel": {
+        "de": "Lärche"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/442EB93F61404E74B2030DAF06C0FEA2",
+      "prefLabel": {
+        "de": "Eibe"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/7373BB4E507744CE92E4606ADD23AD35",
+      "prefLabel": {
+        "de": "Zeder"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/7F926166062842CAA8D2EBD3F7D327A0",
+      "prefLabel": {
+        "de": "Tanne"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/B0809EEAB8714225A4B303E2773A78F1",
+      "prefLabel": {
+        "de": "Fichte"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/B74987528F96447DB6DCCBA0EE432DA4",
+      "prefLabel": {
+        "de": "Wachholder"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/7599288D84DB463AA0A4FE5072433504",
+    "prefLabel": {
+      "de": "Holz"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

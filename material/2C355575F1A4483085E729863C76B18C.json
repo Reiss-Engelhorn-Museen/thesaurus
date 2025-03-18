@@ -1,0 +1,233 @@
+{
+  "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/2C355575F1A4483085E729863C76B18C",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Schmuckstein"
+  },
+  "notation": [
+    "2C355575F1A4483085E729863C76B18C"
+  ],
+  "narrower": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/6CCD33B5A59049B7BFD0728C191000DC",
+      "prefLabel": {
+        "de": "Granat"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/18FD90EC20934D509BB8A29BACC0A8B8",
+      "prefLabel": {
+        "de": "Lapislazuli"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/8B97775242D845BBA6752116E97C7C0D",
+      "prefLabel": {
+        "de": "Chalzedon"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/54AD47B14BAF40BFA3FBE15C3FAEE6D3",
+      "prefLabel": {
+        "de": "Türkis"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/58F7A1F4C6C641BC9CD30417995CC41A",
+      "prefLabel": {
+        "de": "Malachit"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/6C2B1E4F534D48F0ABE80ED7BD4915DE",
+      "prefLabel": {
+        "de": "Gips"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/C3516FACEAF94268AA2236CF2896FE5A",
+      "prefLabel": {
+        "de": "Quarz"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/87512288F917425A95EF19CD80A11732",
+      "prefLabel": {
+        "de": "Alabaster"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/AAC6AEF564E940A3B913A529604AE852",
+      "prefLabel": {
+        "de": "Nephrit"
+      }
+    },
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/E83E2D2A54434343986F44383C189A9D",
+      "prefLabel": {
+        "de": "Jade"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/4B9AF5921CD64EEA903B2A04173FAFD3",
+    "prefLabel": {
+      "de": "Edelstein"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}

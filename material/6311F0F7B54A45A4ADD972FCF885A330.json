@@ -1,0 +1,182 @@
+{
+  "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/6311F0F7B54A45A4ADD972FCF885A330",
+  "type": "Concept",
+  "prefLabel": {
+    "de": "Epoxidharz"
+  },
+  "altLabel": {
+    "de": [
+      "Aethoxylinharz",
+      "EP",
+      "Epoxyharz",
+      "Ethoxylinharz"
+    ]
+  },
+  "definition": {
+    "de": "Epoxidharz wird in der Vornorm DIN V 55650: 1998-05 definiert als synthetisches Harz, meist hergestellt aus Epichlorhydrin und Bisphenol A oder durch Epoxidierung bestimmter olefinischer Doppelbindungen. Epoxidharze enthalten mehr als eine Epoxidgruppe je Molekül.\n \n Als Härter werden Amine, Amidoamine und Aminaddukte verwendet, deren Aminwasserstoffe mit den Epoxidgruppen reagieren sowie Isocyanate. Darüber hinaus können auch andere Verbindungen wie Säuren oder sonstige H-aktive Verbindungen als Härter eingesetzt werden. Bei Einbrennbeschichtungen (heißhärtend) werden als Bindemittel hochmolekulare Harze eingesetzt. Niedermolekulare Verbindungen werden bei Einbrennsystemen als Bindemittelbestandteile vermieden, da sie unter den Einbrennbedingungen flüchtig sind und dann nicht mehr zum Aufbau der Beschichtung zur Verfügung stehen.\n \n Pigmente und Füllstoffe dienen der mechanischen Stabilisierung der Beschichtung und der Farbgebung. Füllstoffe erhöhen die Schutzfunktion. Durch den Aufbau einer strukturviskosen Konsistenz des Beschichtungsstoffes verbessern sie die Verarbeitungsfähigkeit.\n \n Organische Modifizierungsmittel dienen unter anderem der Verbesserung der Verarbeitungs- und/oder Trocknungseigenschaften.\n \n Lösemittel werden zur Erniedrigung der Viskosität eingesetzt, um die Verarbeitbarkeit zu ermöglichen. Sie sollen nach der Aushärtung nicht mehr vorhanden sein.\n \n Additive und Hilfsstoffe werden eingesetzt zur Verbesserung:\n \n  * der Lagerstabilität der Beschichtungsstoffe,\n  * der Verarbeitungsfähigkeit (z.B. rheologische Additive zur Verbesserung der Fließeigenschaften wie Ablaufverhalten und Verlauf),\n  * der Filmqualität (z.B. Entschäumer zur Verhinderung von Bläschenbildung, Poren und Kratern),\n  * der Benetzung der zu beschichtenden Fläche,\n  * der Oberflächenstruktur der Beschichtung."
+  },
+  "notation": [
+    "6311F0F7B54A45A4ADD972FCF885A330"
+  ],
+  "broader": {
+    "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material/C8C1F3F91F51488EBDCFEF853353F528",
+    "prefLabel": {
+      "de": "Kunststoff auf synthetischer Basis"
+    }
+  },
+  "inScheme": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "inSchemeAll": [
+    {
+      "id": "https://reiss-engelhorn-museen.github.io/thesaurus/material"
+    }
+  ],
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "dc": "http://purl.org/dc/elements/1.1/",
+    "schema": "https://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "dc:title": {
+      "@id": "dc:title",
+      "@container": "@language"
+    },
+    "dc:description": {
+      "@id": "dc:description",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "changeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "editorialNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "historyNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "hasTopConcept": {
+      "@container": "@set"
+    },
+    "inScheme": {
+      "@container": "@set"
+    },
+    "topConceptOf": {
+      "@container": "@set"
+    },
+    "deprecated": {
+      "@id": "owl:deprecated",
+      "@type": "xsd:boolean"
+    },
+    "isReplacedBy": {
+      "@id": "dct:isReplacedBy",
+      "@container": "@set"
+    }
+  }
+}
